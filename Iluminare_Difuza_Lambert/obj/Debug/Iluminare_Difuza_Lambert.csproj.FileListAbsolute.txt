@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\bin\Debug\Iluminare_Difuza_Lambert.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\bin\Debug\Iluminare_Difuza_Lambert.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\bin\Debug\Iluminare_Difuza_Lambert.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\obj\Debug\Iluminare_Difuza_Lambert.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\obj\Debug\Iluminare_Difuza_Lambert.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\obj\Debug\Iluminare_Difuza_Lambert.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\obj\Debug\Iluminare_Difuza_Lambert.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\obj\Debug\Iluminare_Difuza_Lambert.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\obj\Debug\Iluminare_Difuza_Lambert.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\obj\Debug\Iluminare_Difuza_Lambert.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Iluminare_Difuza_Lambert\obj\Debug\Iluminare_Difuza_Lambert.exe.config

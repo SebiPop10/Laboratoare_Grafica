@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\obj\Debug\Lab_6_FereastraClipping.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\obj\Debug\Lab_6_FereastraClipping.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\obj\Debug\Lab_6_FereastraClipping.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\obj\Debug\Lab_6_FereastraClipping.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\obj\Debug\Lab_6_FereastraClipping.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\bin\Debug\Lab_6_FereastraClipping.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\bin\Debug\Lab_6_FereastraClipping.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\bin\Debug\Lab_6_FereastraClipping.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\obj\Debug\Lab_6_FereastraClipping.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\obj\Debug\Lab_6_FereastraClipping.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab_6_FereastraClipping\obj\Debug\Lab_6_FereastraClipping.exe.config
