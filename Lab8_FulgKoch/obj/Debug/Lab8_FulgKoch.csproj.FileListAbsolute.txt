@@ -1,0 +1,10 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\bin\Debug\Lab8_FulgKoch.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\bin\Debug\Lab8_FulgKoch.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\bin\Debug\Lab8_FulgKoch.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\obj\Debug\Lab8_FulgKoch.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\obj\Debug\Lab8_FulgKoch.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\obj\Debug\Lab8_FulgKoch.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\obj\Debug\Lab8_FulgKoch.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\obj\Debug\Lab8_FulgKoch.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\obj\Debug\Lab8_FulgKoch.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab8_FulgKoch\obj\Debug\Lab8_FulgKoch.pdb

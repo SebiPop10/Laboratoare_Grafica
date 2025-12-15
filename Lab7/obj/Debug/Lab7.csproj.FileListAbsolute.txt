@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\bin\Debug\Lab7.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\bin\Debug\Lab7.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\obj\Debug\Lab7.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\obj\Debug\Lab7.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Lab7\obj\Debug\Lab7.exe.config
