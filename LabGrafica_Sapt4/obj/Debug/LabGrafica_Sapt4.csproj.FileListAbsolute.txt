@@ -1,0 +1,10 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\bin\Debug\LabGrafica_Sapt4.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\bin\Debug\LabGrafica_Sapt4.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\bin\Debug\LabGrafica_Sapt4.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\obj\Debug\LabGrafica_Sapt4.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\obj\Debug\LabGrafica_Sapt4.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\obj\Debug\LabGrafica_Sapt4.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\obj\Debug\LabGrafica_Sapt4.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\obj\Debug\LabGrafica_Sapt4.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\obj\Debug\LabGrafica_Sapt4.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabGrafica_Sapt4\obj\Debug\LabGrafica_Sapt4.pdb
