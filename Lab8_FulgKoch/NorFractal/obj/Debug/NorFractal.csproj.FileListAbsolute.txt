@@ -1,0 +1,10 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\bin\Debug\NorFractal.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\bin\Debug\NorFractal.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\bin\Debug\NorFractal.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\obj\Debug\NorFractal.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\obj\Debug\NorFractal.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\obj\Debug\NorFractal.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\obj\Debug\NorFractal.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\obj\Debug\NorFractal.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\obj\Debug\NorFractal.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\NorFractal\obj\Debug\NorFractal.pdb

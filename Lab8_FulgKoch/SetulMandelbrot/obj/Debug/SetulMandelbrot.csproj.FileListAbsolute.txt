@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\bin\Debug\SetulMandelbrot.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\bin\Debug\SetulMandelbrot.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\bin\Debug\SetulMandelbrot.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\obj\Debug\SetulMandelbrot.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\obj\Debug\SetulMandelbrot.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\obj\Debug\SetulMandelbrot.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\obj\Debug\SetulMandelbrot.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\obj\Debug\SetulMandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\obj\Debug\SetulMandelbrot.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\obj\Debug\SetulMandelbrot.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulMandelbrot\obj\Debug\SetulMandelbrot.exe.config

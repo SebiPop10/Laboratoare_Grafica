@@ -1,0 +1,10 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\bin\Debug\TriunghiSierpinski.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\bin\Debug\TriunghiSierpinski.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\bin\Debug\TriunghiSierpinski.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\obj\Debug\TriunghiSierpinski.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\obj\Debug\TriunghiSierpinski.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\obj\Debug\TriunghiSierpinski.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\obj\Debug\TriunghiSierpinski.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\obj\Debug\TriunghiSierpinski.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\obj\Debug\TriunghiSierpinski.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\TriunghiSierpinski\obj\Debug\TriunghiSierpinski.pdb
