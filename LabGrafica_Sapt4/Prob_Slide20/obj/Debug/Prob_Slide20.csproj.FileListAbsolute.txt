@@ -1,0 +1,10 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\bin\Debug\Prob_Slide20.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\bin\Debug\Prob_Slide20.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\bin\Debug\Prob_Slide20.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\obj\Debug\Prob_Slide20.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\obj\Debug\Prob_Slide20.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\obj\Debug\Prob_Slide20.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\obj\Debug\Prob_Slide20.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\obj\Debug\Prob_Slide20.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\obj\Debug\Prob_Slide20.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide20\obj\Debug\Prob_Slide20.pdb
