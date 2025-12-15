@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\obj\Debug\ScanLine_Simplificat.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\obj\Debug\ScanLine_Simplificat.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\obj\Debug\ScanLine_Simplificat.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\obj\Debug\ScanLine_Simplificat.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\obj\Debug\ScanLine_Simplificat.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\bin\Debug\ScanLine_Simplificat.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\bin\Debug\ScanLine_Simplificat.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\bin\Debug\ScanLine_Simplificat.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\obj\Debug\ScanLine_Simplificat.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\obj\Debug\ScanLine_Simplificat.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ScanLine_Simplificat\obj\Debug\ScanLine_Simplificat.exe.config
