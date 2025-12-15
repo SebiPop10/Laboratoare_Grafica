@@ -1,0 +1,10 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\obj\Debug\LabSapt5_UmplereDreptunghi.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\obj\Debug\LabSapt5_UmplereDreptunghi.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\obj\Debug\LabSapt5_UmplereDreptunghi.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\obj\Debug\LabSapt5_UmplereDreptunghi.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\obj\Debug\LabSapt5_UmplereDreptunghi.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\bin\Debug\LabSapt5_UmplereDreptunghi.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\bin\Debug\LabSapt5_UmplereDreptunghi.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\bin\Debug\LabSapt5_UmplereDreptunghi.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\obj\Debug\LabSapt5_UmplereDreptunghi.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\LabSapt5_UmplereDreptunghi\obj\Debug\LabSapt5_UmplereDreptunghi.pdb
