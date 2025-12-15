@@ -1,0 +1,10 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\bin\Debug\Prob_slide18_ClippingPeOImag.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\bin\Debug\Prob_slide18_ClippingPeOImag.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\bin\Debug\Prob_slide18_ClippingPeOImag.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\obj\Debug\Prob_slide18_ClippingPeOImag.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\obj\Debug\Prob_slide18_ClippingPeOImag.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\obj\Debug\Prob_slide18_ClippingPeOImag.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\obj\Debug\Prob_slide18_ClippingPeOImag.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\obj\Debug\Prob_slide18_ClippingPeOImag.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\obj\Debug\Prob_slide18_ClippingPeOImag.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_slide18_ClippingPeOImag\obj\Debug\Prob_slide18_ClippingPeOImag.pdb
