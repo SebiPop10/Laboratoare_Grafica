@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\bin\Debug\Prob_Slide28.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\bin\Debug\Prob_Slide28.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\bin\Debug\Prob_Slide28.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\obj\Debug\Prob_Slide28.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\obj\Debug\Prob_Slide28.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\obj\Debug\Prob_Slide28.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\obj\Debug\Prob_Slide28.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\obj\Debug\Prob_Slide28.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\obj\Debug\Prob_Slide28.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\obj\Debug\Prob_Slide28.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\Prob_Slide28\obj\Debug\Prob_Slide28.exe.config
