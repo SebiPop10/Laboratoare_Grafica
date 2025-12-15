@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\bin\Debug\SetulCantor.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\bin\Debug\SetulCantor.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\bin\Debug\SetulCantor.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\obj\Debug\SetulCantor.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\obj\Debug\SetulCantor.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\obj\Debug\SetulCantor.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\obj\Debug\SetulCantor.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\obj\Debug\SetulCantor.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\obj\Debug\SetulCantor.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\obj\Debug\SetulCantor.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\SetulCantor\obj\Debug\SetulCantor.exe.config
