@@ -1,0 +1,11 @@
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\bin\Debug\ProbSlide12.exe.config
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\bin\Debug\ProbSlide12.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\bin\Debug\ProbSlide12.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\obj\Debug\ProbSlide12.csproj.AssemblyReference.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\obj\Debug\ProbSlide12.Form1.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\obj\Debug\ProbSlide12.Properties.Resources.resources
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\obj\Debug\ProbSlide12.csproj.GenerateResource.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\obj\Debug\ProbSlide12.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\obj\Debug\ProbSlide12.exe
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\obj\Debug\ProbSlide12.pdb
+C:\Users\sebip\Cursuri si seminarii faculta\Anul 3\Grafica\ProbSlide12\obj\Debug\ProbSlide12.exe.config
